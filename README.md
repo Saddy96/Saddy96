@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saddy96
 - 👀 I’m interested in Data Science, Machine Learning, Analytics, Cloud, and IoT.
-- 🌱 I’m currently learning whatever comes......
-- 💞️ I’m looking to collaborate on Anything interesting..
+- 🌱 I’m currently learning Whatever Comes......
+- 💞️ I’m looking to collaborate on Anything Interesting..
 - 📫 How to reach me - https://www.linkedin.com/in/sain-sam
 
 <!---
